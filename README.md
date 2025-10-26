@@ -16,7 +16,7 @@ El sistema permite realizar búsquedas sobre listas de productos y empleados, ap
 
 ## Estructura del proyecto
 
-
+````
 Taller_Busqueda_Lineal/
 │
 ├── sistema_tienda.py           # Menú principal de consola (CLI)
@@ -26,7 +26,7 @@ Taller_Busqueda_Lineal/
 ├── persistencia.py             # Historial de búsquedas y estadísticas en JSON
 ├── README.md                   # Documento de presentación y guía del proyecto
 └── informe_taller.md           # Informe técnico y académico del taller
-
+````
 
 ## Requisitos técnicos
 
