@@ -41,10 +41,14 @@ Taller_Busqueda_Lineal/
 2. Ejecutar el siguiente comando:
 
    ```
-   python sistema_tienda.py o py sistema_tienda.py
+   python sistema_tienda.py
+   ```
+   o
+   ```
+   py sistema_tienda.py
    ```
 
-3. Se mostrará un menú interactivo con las siguientes opciones:
+4. Se mostrará un menú interactivo con las siguientes opciones:
 
    ```
    1) Búsqueda lineal simple
@@ -55,7 +59,7 @@ Taller_Busqueda_Lineal/
    0) Salir
    ```
 
-4. Seguir las instrucciones de cada opción para ejecutar las pruebas de búsqueda y análisis.
+5. Seguir las instrucciones de cada opción para ejecutar las pruebas de búsqueda y análisis.
 
 ## Funcionalidades principales
 
