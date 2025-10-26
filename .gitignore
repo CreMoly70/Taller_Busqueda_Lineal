@@ -3,3 +3,5 @@ __pycache__/
 *.json
 historial_busquedas.json
 .vscode/
+.env/
+.venv/
